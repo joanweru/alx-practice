@@ -1,0 +1,11 @@
+total 0
+drwxr-xr-x 1 joanwer joanwer 4096 Jun 11 14:11 .
+drwxr-xr-x 1 joanwer joanwer 4096 Jun 11 01:36 ..
+-rwxr--r-- 1 joanwer joanwer   28 Jun 11 13:32 2-hellofile
+-rwxr--r-- 1 joanwer joanwer   39 Jun 11 13:36 3-twofiles
+-rwxr--r-- 1 joanwer joanwer   29 Jun 11 13:37 4-lastlines
+-rwxr--r-- 1 joanwer joanwer   36 Jun 11 13:57 6-third_line
+-rwxr--r-- 1 joanwer joanwer   36 Jun 11 14:10 8-cwd_state
+-rwxr--r-- 1 joanwer joanwer   31 Jun 11 01:39 hello_world
+-rw-r--r-- 1 joanwer joanwer   49 Jun 11 13:54 iacta
+-rw-r--r-- 1 joanwer joanwer    0 Jun 11 14:11 ls_cwd_content
